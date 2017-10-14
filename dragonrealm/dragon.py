@@ -1,5 +1,5 @@
 # Dragon Realm
-# A game by Aaron Hobson
+# A game by Natalia Guerrero
 # 10/7/2017
 
 # import stuff
